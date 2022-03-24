@@ -14,3 +14,7 @@ elif idade >=25 and idade <=45:
     print(f'Você tem {idade} anos. Você é um atleta master.')
 else:
     print(f'Com essa idade de {idade} anos, não é possível participar como atleta.')
+
+
+
+#Ex041 - Classificando Atletas
