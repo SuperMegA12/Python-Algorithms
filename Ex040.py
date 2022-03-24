@@ -7,3 +7,8 @@ elif media >= 5 and media <=6.9:
     print(f'Sua média é de {media:.1f} Você está em recuperação.')
 elif media <5:
     print(f'Sua média é {media:.1f} Você foi reprovado!')
+
+
+
+
+#Ex040 -  Aquele Clássico da Média
