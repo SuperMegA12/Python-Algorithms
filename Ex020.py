@@ -5,3 +5,7 @@ for c in range(0,4):
     vetor.append(alunos)
 random.shuffle(vetor)
 print(f'A ordem é {vetor}')
+
+
+
+#Ex020 - Sorteando uma ordem na lista
