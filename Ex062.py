@@ -13,3 +13,7 @@ while mais !=0:
     print('PAUSA')
     mais = int(input('Quantos termos gostaria de saber a mais? : '))
 print('FIM')
+
+
+
+#Ex062 - Super Progressão Aritimética v3.0
