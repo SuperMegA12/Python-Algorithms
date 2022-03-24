@@ -11,3 +11,6 @@ if r1 < r2 + r3 and r2 < r1 + r3 and r3 < r1 + r2:
         print('ISÓLECES')
 else:
     print('Não pode formar um triângulo')
+
+
+#Ex042 - Analisando Triãngulos V2.0
