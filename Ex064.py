@@ -13,3 +13,7 @@ while n !=999:
         soma-=n
         break
 print(f'Você digitou {cont_1+cont_2} valores. E a soma deles corresponde a {soma}')
+
+
+
+#Ex064 - Tratando vários Valores
