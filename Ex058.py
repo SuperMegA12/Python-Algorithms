@@ -10,3 +10,7 @@ while pergunta != computador:
     if pergunta == computador:
         print(f'''Parabéns! Eu pensei no número {computador}, e você chutou o mesmo número! Somos iguais.
 você acertou após {cont_2+cont} tentativas.''')
+
+
+
+#Ex058 - Jogo da Advinhação v2.0
