@@ -8,3 +8,7 @@ if inverso == junto:
      print(f'A frase {frase} é palíndromo')
 else:
    print(f'A frase {frase} não é palíndromo')
+
+
+
+#Ex053 - Detector de Palíndromo
