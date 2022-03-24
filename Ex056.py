@@ -18,3 +18,7 @@ print(f'O nome do homen mais velho é {homen_velho}.')
 print(f'Ha {cont_woman} mulheres menores de 20 anos.')
 
 
+
+#Ex056 - Analisador Completo
+
+
