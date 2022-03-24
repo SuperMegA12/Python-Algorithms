@@ -20,3 +20,5 @@ print(f'O maior valor digitado foi {maior} e o menor foi {menor} . E a média do
 
 
 
+#Ex065 - Maior e Menor valores
+
