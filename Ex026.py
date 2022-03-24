@@ -10,4 +10,4 @@ if ('A' in nome):
 
 
 
-#Ex26 - Primeira e última ocorrência de uma string
+#Ex026 - Primeira e última ocorrência de uma string
