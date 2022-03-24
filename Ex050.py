@@ -4,3 +4,7 @@ for c in range(0,7):
     if n % 2 == 0:
         soma = soma + n
 print(soma)
+
+
+
+#Ex050 - Soma dos pares
