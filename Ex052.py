@@ -12,3 +12,7 @@ if tot == 2:
     print('Por isso ele é primo')
 else:
     print('Por isso ele não é primo')
+
+
+
+#Ex052 - Números primos
