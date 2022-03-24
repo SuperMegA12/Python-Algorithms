@@ -12,3 +12,7 @@ elif 30 < imc <= 40:
     print('Você está com obesidade.')
 elif imc > 40:
     print('ALERTA!! OBESIDADE MORBIDA!')
+
+
+
+#Ex043 - Índice de Massa Corporal
