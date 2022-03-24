@@ -6,3 +6,7 @@ maior = max(lista)
 menor = min(lista)
 
 print(f'O maior peso registrado foi {maior}KG . E o menor peso registrado foi {menor} KG')
+
+
+
+#Ex055 - Maior e Menor da sequência
