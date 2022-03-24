@@ -62,3 +62,7 @@ while jogada > 2 or jogada < 0:
             print(f'O computador jogou Papel. VITÓRIA!!!')
         if computador == 2:
             print(f'O computador jogou Tesoura. EMPATE!!!')
+
+
+
+#Ex045 - GAME: Pedra, Papel e Tesoura
