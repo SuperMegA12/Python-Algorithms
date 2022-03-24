@@ -6,3 +6,8 @@ if ('A' in nome):
     encontrar = nome.rfind('A')
     print(f'Seu nome possui a letra "\A"\. Ela aparece {caio} vezes, na posição {achar} pela primeira vez no seu nome.'
      f' E na posição {encontrar} pela última vez.')
+
+
+
+
+#Ex26 - Primeira e última ocorrência de uma string
