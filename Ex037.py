@@ -14,3 +14,7 @@ elif escolha == 3:
     print(f'O número {n} em hexadecimal é {hexadecimal}')
 else:
     print(f'Opção {escolha} não está na lista. Digite um número válido.')
+
+
+
+#Ex037 - Conversor de Bases Numéricas
