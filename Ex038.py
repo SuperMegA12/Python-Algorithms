@@ -6,3 +6,7 @@ elif n2 > n:
     print(f'{n2} é maior que {n}')
 else:
     print('Não ha maior número')
+
+
+
+#Ex038 - Comparando Números
