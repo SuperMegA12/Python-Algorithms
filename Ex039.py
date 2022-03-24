@@ -8,3 +8,7 @@ elif idade == 16:
     print('Na sua idade o alistamento é opcional. Caso deseje se alistar, vá a junta militar mais próxima.')
 elif idade >= 19 or idade <=45:
     print('Caso você AINDA não tenha se alistado, deverá pagar uma multa de 30R$,e recorrer a uma junta mais próxima.')
+
+
+
+#Ex039 - Alistamento Militar
