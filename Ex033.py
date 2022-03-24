@@ -5,3 +5,7 @@ for c in range (0,3):
 maior = max(list)
 menor = min(list)
 print(f'O maior valor digitado é {maior} e o menor valor é {menor}.')
+
+
+
+#Ex033 - Maior e Menor Valores
