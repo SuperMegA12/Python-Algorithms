@@ -5,3 +5,8 @@ if dist > 200:
      print(f'O preço da sua viagem será de {bigger_price:.2f}R$')
 else:
     print(f'O preço da sua viagem  será de {smaller_price:.2f}R$')
+
+
+
+
+#Ex031 - Custo da Viagem
