@@ -4,4 +4,4 @@ print(f'{preço} com 5% de desconto é {desconto}')
 
 
 
-#Ex12 - Calculando Descontos
+#Ex012 - Calculando Descontos
