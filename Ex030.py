@@ -3,3 +3,7 @@ if n % 2 == 0:
     print('Esse número é par')
 else:
     print('Esse número é ímpar')
+
+
+
+#Ex030 - Par ou Ímpar?
