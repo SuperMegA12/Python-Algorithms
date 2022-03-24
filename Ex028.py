@@ -7,3 +7,8 @@ if guess == number:
     print(f'Parabéns! Eu realmente pensei no número {number}')
 else:
     print(f'Você errou!Eu pensei no número {number}')
+
+
+
+
+#Ex028 - Jogo da Advinhação
