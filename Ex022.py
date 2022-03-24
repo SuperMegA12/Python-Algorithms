@@ -4,3 +4,7 @@ print(f'Seu nome em maísculo é {nome.upper()}. E seu nome em minúsculo é {no
 print(f'Seu nome tem {nome.__len__() - nome.count(" ")} letras')
 primeiro_nome = nome.find(' ')
 print(f'Seu primeiro nome tem {primeiro_nome} letras')
+
+
+
+#Ex022 - Analisador de Textos
