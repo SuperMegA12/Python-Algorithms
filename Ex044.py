@@ -24,3 +24,7 @@ elif forma_pagamento == 4:
     metodo_4 = price + (price * 3 / 100)
     metodo_4_divisO = metodo_4 / 3
     print(f'Com o reajute dos juros você pagará 3 parcelas de {metodo_4_divisO}R$')
+
+
+
+#Ex044 - Gerenciador de Pagamentos
