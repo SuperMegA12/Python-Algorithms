@@ -7,3 +7,5 @@ print('É capitalizado', x.istitle())
 print('É alfabético', x.isalpha())
 print('É alfanumérico', x.isalnum())
 print('Só tem espaço?', x.isspace())
+
+#Ex004 - Dissecando uma Variável
