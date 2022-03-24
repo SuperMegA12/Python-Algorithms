@@ -5,3 +5,7 @@ c = n // 100 % 10
 m = n // 1000 % 10
 
 print(f'Unidade {u}. Dezena {d}. Centena {c}. Milhar {m}.')
+
+
+
+#Ex023 - Separando dígitos de um número
