@@ -11,3 +11,7 @@ for c in range(1,8):
         cont_menor+=1
     print('=-='*20)
 print(f'Ha {cont_maior} pessoas de maior idade \nHa {cont_menor} pessoas de menor idade')
+
+
+
+#Ex054 - Grupo de Maioridade
