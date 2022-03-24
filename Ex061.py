@@ -7,3 +7,7 @@ while cont <= termos_usuario:
     print(f'{termo}')
     termo+=razao_pa
     cont+=1
+
+
+
+#Ex061 - Progressão Aritimética v2.0
