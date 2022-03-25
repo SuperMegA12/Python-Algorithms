@@ -14,3 +14,7 @@ while True:
 print(f'Ha {cont_idade} pessoa(s) maior(es) que 18 anos registrados.')
 print(f' Ha {cont_man} homens registrados.')
 print(f'Ha {cont_woman} mulheres com menos de 20 anos.')
+
+
+
+#Ex069 - Análise de Dados do grupo
