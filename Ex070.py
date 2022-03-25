@@ -17,3 +17,7 @@ while True:
 print(f'''O total gasto na compra foi de {soma} R$. 
 Ha {cont} produto(s) mais caro(s) que 1000R$. 
 E o produto mais barato custa é o {barato} custando {menor} R$''')
+
+
+
+#Ex070 - Estatísticas em Produto
