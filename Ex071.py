@@ -19,3 +19,7 @@ while True:
        totalced = 0
        if total == 0 :
         break
+
+
+
+#Ex071 - Simulador de Caixa Eletrônico
