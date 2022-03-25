@@ -7,3 +7,7 @@ while numero != -1:
     for cont in range (valor_saber):
         print( f'{numero} X {cont+1} = {numero * (cont+1)}')
 print('FIM')
+
+
+
+#Ex067 - Tabuada v3.0
