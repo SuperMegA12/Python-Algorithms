@@ -37,3 +37,7 @@ while True :
             print('Você perdeu!!')
             break
 print(f'Você teve um total de {cont} vitórias!!')
+
+
+
+#Ex068 - Jogo Par ou Ímpar
