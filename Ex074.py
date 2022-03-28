@@ -9,4 +9,4 @@ print(f'E o menor é {min(numeros)}')
 
 
 
-#Ex074 - Maior e Menor valor em Tupla
+#Ex074 -  Maior e Menor valor em Tupla
