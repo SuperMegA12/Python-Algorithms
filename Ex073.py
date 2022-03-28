@@ -1,7 +1,7 @@
 #O código antes da linha 8 é só para uma praticidade de adiconar os nomes.
 tupla = ()
 transformando = list(tupla)
-for c in range(0,8):
+for c in range(0,20):
     n = str(input(f'{c+1}ª COLOCADO: ')).strip().upper()
     transformando.append(n)
 tupla = tuple(transformando)
