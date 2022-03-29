@@ -13,3 +13,7 @@ print(f'Os valores pares digitados foram:', end='')
 for np in tupla:
     if np % 2 ==0:
         print( np , end=' ')
+
+
+
+#Ex075 - Ánalise de Dados com Tupla
