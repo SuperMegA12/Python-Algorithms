@@ -3,7 +3,7 @@ lista_pares = []
 lista_impares = []
 while True:
     num = int(input('Digite um valor: '))
-    lista.append(num
+    lista.append(num)
     if num % 2 == 0:
       lista_pares.append(num)
     else:
