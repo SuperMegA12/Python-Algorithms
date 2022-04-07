@@ -11,7 +11,7 @@ computador = randint(0,10)
 while True :
 
     jogada = str(input('[P/I]: ')).strip().upper()
-    if jogada != 'P' or jogada != 'I':
+    if jogada != 'P' and jogada != 'I':
         print('Alternativa inválida. Recomece o jogo')
         break
     n = int(input('Qual número entre 0 a 10 você quer jogar?: '))
