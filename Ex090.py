@@ -1,6 +1,6 @@
 dicionario = {}
-dicionario["Nome"] = str(input('NOME:'))
-dicionario["Média"] = float(input('Média:'))
+dicionario["Nome"] = str(input('NOME: '))
+dicionario["Média"] = float(input('Média: '))
 print(f'O nome é: {dicionario["Nome"]}')
 print(f'A sua média é: {dicionario["Média"]}')
 if dicionario["Média"] < 7:
