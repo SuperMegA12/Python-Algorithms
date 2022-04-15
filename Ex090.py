@@ -10,6 +10,7 @@ elif dicionario["Média"] >= 5 and dicionario["Média"] < 7:
 else:
     print("Aprovado!!!")
 
+print(dicionario)
 
 
 #Ex090 - Dicionário em Python
