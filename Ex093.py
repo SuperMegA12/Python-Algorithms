@@ -1,4 +1,3 @@
-somador = 0
 dados = {}
 partidas = []
 dados["Nome"] = str(input('Nome do jogador: '))
