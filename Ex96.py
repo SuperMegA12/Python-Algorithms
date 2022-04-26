@@ -15,4 +15,4 @@ area()
 
 
 
-#Ex096 - Função que cálcula área
+#Ex096 -  Função que cálcula área
