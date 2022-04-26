@@ -37,7 +37,7 @@ contador(ini,fim,pas)
 
 
 
-#Ex98 - Função de Contador
+#Ex98 -  Função de Contador
 
 
 
