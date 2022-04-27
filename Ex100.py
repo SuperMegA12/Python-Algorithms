@@ -10,7 +10,7 @@ def sorteia(*n):
        print(f'{i} ', end='')
        if i % 2 == 0:
            soma+=i
-   print(f'\nSomando os valores pares, o resultado é: {soma}')
+   print(f'\nValores pares somados: {soma}')
 
 
 
