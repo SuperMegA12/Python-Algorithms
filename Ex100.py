@@ -1,6 +1,6 @@
 from random import randint
 
-lista = []
+
 
 
 def sorteia(*n):
