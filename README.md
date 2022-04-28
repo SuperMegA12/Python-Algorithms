@@ -31,6 +31,8 @@ Minhas resoluções dos exercícios de pyhton (Curso em vídeo). Nessa lista de 
 
 
 OBS :
+     
+     
      Exercícios 1 até 35 fazem parte do mundo 1 (Básico)
     
     
