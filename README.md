@@ -29,8 +29,8 @@ Minhas resoluções dos exercícios de pyhton (Curso em vídeo). Nessa lista de 
 
 
 
-PS : 
 
+OBS :
      Exercícios 1 até 35 fazem parte do mundo 1 (Básico)
     
     
@@ -41,7 +41,7 @@ PS :
      
      
      
-OBS - Conceitos de básico ao avançado são medidos pelo curso.
+     
 
 
 
