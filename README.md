@@ -1,5 +1,5 @@
 # Python-Algorithms
- Exercícios Pyhton (105 exercícios de algorítimos e lógica de programação em Python)
+ Exercícios Pyhton (100 exercícios de algorítimos e lógica de programação em Python)
 
 
 
