@@ -1,5 +1,5 @@
 # Python-Algorithms
- Exercícios Pyhton (95 exercícios de algorítimos e lógica de programação em Python)
+ Exercícios Pyhton (105 exercícios de algorítimos e lógica de programação em Python)
 
 
 
@@ -19,6 +19,9 @@
 
 
 6 - Tuplas, Listas e Dicionários
+
+
+7 - Funções
 
 
 
