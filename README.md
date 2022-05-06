@@ -1,5 +1,5 @@
 # Python-Algorithms
- Exercícios Pyhton (100 exercícios de algorítimos, estrutura de dados e lógica de programação em Python)
+ Algorítimos Pyhton (100 Algorítimos em Python com conceitos de: Lógica de programação e Estrutura de dados)
 
 
 
